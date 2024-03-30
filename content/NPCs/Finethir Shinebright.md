@@ -1,3 +1,6 @@
-| Notes | Appearance                                                          | Race | Personality                                                                                                                                                        | Relationships                                                   | Party feelings | Desire                      | Fear | Status |
-| ----- | ------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | -------------- | --------------------------- | ---- | ------ |
-|       | Brown skin, tall, long white beard, bald with a basic starry outfti |      | Merlin from sword in stone. calm, somewhat conceited, but caring. seems to be a bumbling fool that has been affected by his great age, knows more than he lets on. xanth wizard| [[Patrick Bonesborrough]] - dear friend, unaware of [[Kalveras]].| Love him       | To reach the peaks of magic |      |     Alive   |
+>[!infobox]
+>![[Finethir Shinebright-20240329210145034.webp|]]
+># [[Finethir Shinebright]]
+>Race            [[Elf]]
+>Class           [[Wizard]]
+>Status          Alive 
